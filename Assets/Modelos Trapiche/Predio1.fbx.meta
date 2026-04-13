@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Vigas
-    second: {fileID: 2100000, guid: daa5470bc9d9019449e54ac6be1d8ddf, type: 2}
+    second: {fileID: 2100000, guid: f46dd8549c10f2d4090939b79e96109f, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
